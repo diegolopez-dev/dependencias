@@ -11,4 +11,4 @@ Este proyecto Spring Boot permite generar PDFs de distintos tipos a partir de da
 ## Instalación
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://docs.github.com/es/repositories](https://docs.github.com/es/repositories)
+   git clone https://github.com/diegolopez-dev/dependencias.git
