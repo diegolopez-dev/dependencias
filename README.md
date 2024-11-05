@@ -4,7 +4,7 @@
 Este proyecto Spring Boot permite generar PDFs de distintos tipos a partir de datos proporcionados por el usuario a través de la línea de comandos. Utiliza la biblioteca iText para manipular los documentos PDF.
 
 ## Prerrequisitos
-* Java 11 o superior
+* Java 17 o superior
 * Maven
 * Una biblioteca para generar PDFs (en este ejemplo usaremos iText)
 
